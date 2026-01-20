@@ -4,3 +4,4 @@ PyOpenSSL
 google-api-python-client
 python-dateutil
 vobject
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
